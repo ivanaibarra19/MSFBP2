@@ -55,7 +55,7 @@ $$
 
 La entrada aleatoria debe ser la misma para los tres casos y las simulaciones se realizan de **0 a 15 segundos**. El análisis es exclusivamente académico y *in silico*.
 
-**Palabras clave:** Modelo Windkessel; sistema cardiovascular; presión arterial; controlador PID.
+**Palabras clave:** Modelo Windkessel; sistema cardiovascular; presión arterial; controlador PID; Simulaciones numericas.
 
 ## Lista de archivos incluidos en el repositorio
 
