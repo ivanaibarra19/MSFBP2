@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica 2: Sistema Cardiovascular'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ivana
+    family-names: 'Ibarra '
+    email: l23210709@tectijuana.edu.mx
+    affiliation: TecNM / IT Tijuana
+repository-code: 'https://github.com/ivanaibarra19/MSFBP2'
+keywords:
+  - sistema cardiovascular
+  - presión arterial
+  - 'controlador '
+  - PID
+  - Simulaciones numericas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-10-21'
