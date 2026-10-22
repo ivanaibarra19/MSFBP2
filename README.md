@@ -59,7 +59,7 @@ La entrada aleatoria debe ser la misma para los tres casos y las simulaciones se
 ## Lista de archivos incluidos en el repositorio
 
 1. Cuaderno de MATLAB (`.mlx`) y versión exportada (`.pdf`).
-2. Modelos de Simulink y Simscape Electrical (`.slx`).
+2. Modelos de Simulink (`.slx`).
 3. Programa de simulación en Python (`.py`).
 4. Archivo con la señal aleatoria utilizada en las simulaciones.
 5. Gráficas de los estados hipotenso, normotenso e hipertenso en lazo abierto.
@@ -67,7 +67,6 @@ La entrada aleatoria debe ser la misma para los tres casos y las simulaciones se
 7. Capturas de los parámetros y ganancias de ambos controladores.
 8. Diagrama biológico del sistema cardiovascular.
 9. Desarrollo matemático, análisis de estabilidad y resultados.
-10. Archivos `README.md` y `CITATION.cff`.
 
 ## Referencias
 
