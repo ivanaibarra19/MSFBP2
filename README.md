@@ -2,9 +2,12 @@
 
 ## Información de la estudiante
 
-**Nombre completo:** Ibarra Monroy Ivana Valeria
-**Número de control:** 23210709
-**Correo institucional:** l23210709@tectijuana.edu.mx
+**Nombre completo:** 
+Ibarra Monroy Ivana Valeria
+**Número de control:** 
+23210709
+**Correo institucional:** 
+l23210709@tectijuana.edu.mx
 
 **Asignatura:** Modelado de Sistemas Fisiológicos  
 **Carrera:** Ingeniería Biomédica
