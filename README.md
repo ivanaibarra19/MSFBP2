@@ -1,7 +1,7 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=ivanaibarra19/MSFBP2)
-# Práctica 2: Modelado y control del sistema cardiovascular
+# Práctica 2: Sistema cardiovascular
 
-## Información de la estudiante
+## Información del estudiante
 
 **Nombre completo:** 
 Ibarra Monroy Ivana Valeria
